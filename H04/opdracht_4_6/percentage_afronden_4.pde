@@ -1,0 +1,12 @@
+int test= 10+5*2-3; 
+println(test);
+int test2= 15%(4+3); 
+println(test2);
+int test3= (10+5)*(8-3); 
+println(test3);
+int test4= 15%4+3; 
+println(test4); 
+int test5= 10+5*8-3; 
+println(test5); 
+int test6= ((10+5)*2)-3;
+println(test6);
